@@ -6,5 +6,6 @@ I'm Matthew and
 - 😄 Pronouns: I don't really mind, just treat me with respect.
 - ⚡ Fun fact: owns chickens, you could probably tell though.
 
-[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=matthewthechickenman)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub metrics](https://metrics.lecoq.io/matthewthechickenman?languages=1&gists=1&followup=1)
+
 
