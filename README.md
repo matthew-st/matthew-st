@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Matthew and
-- 🔭 I’m currently working on [https://github.com/tictactoe-icu/](a multiplayer version of Tic Tac Toe)
+- 🔭 I’m currently working on [a multiplayer version of Tic Tac Toe](https://github.com/tictactoe-icu/)
 - 📫 How to reach me: Matthew.#9014 on Discord
 - 😄 Pronouns: I don't really mind, just treat me with respect.
 - ⚡ Fun fact: owns chickens, you could probably tell though.
